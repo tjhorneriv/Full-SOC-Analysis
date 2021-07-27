@@ -8,4 +8,4 @@ I created this diagram to explain the network setup that was used for this proje
 
 ![Network Setup](https://github.com/tjhorneriv/Full-SOC-Analysis/blob/main/Network%20Setup.png)
 
-![Offensive Security Analysis](https://github.com/tjhorneriv/Full-SOC-Analysis/blob/main/Offensive%20Security%20Analysis.pdf)
+[Offensive Security Analysis](https://github.com/tjhorneriv/Full-SOC-Analysis/blob/main/Offensive%20Security%20Analysis.pdf)
