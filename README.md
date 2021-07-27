@@ -8,4 +8,20 @@ I created this diagram to explain the network setup that was used for this proje
 
 ![Network Setup](https://github.com/tjhorneriv/Full-SOC-Analysis/blob/main/Network%20Setup.png)
 
+The details of my work configuring the Kibana alerts and thresholds can be found here:
+
+[Defensive Security Analysis](https://github.com/tjhorneriv/Full-SOC-Analysis/blob/main/Defensive%20Security%20Analysis.pdf)
+
+The details of the attacks I performed to test the vulnerabilites of these machines and the effectiveness of the kibana alerts can be found here:
+
 [Offensive Security Analysis](https://github.com/tjhorneriv/Full-SOC-Analysis/blob/main/Offensive%20Security%20Analysis.pdf)
+
+The details of my Wireshark analysis towards the live traffic can be found here:
+
+[Network Forensic Analysis](https://github.com/tjhorneriv/Full-SOC-Analysis/blob/main/Network%20Forensic%20Analysis.pdf)
+
+Finally, my presentation about the Network Topology & Critical Vulnerabilites can be found here:
+
+[Network Presentation](https://github.com/tjhorneriv/Full-SOC-Analysis/blob/main/Network%20Presentation.pdf)
+
+Thank you for taking the time to check out my project and please feel free to reach out if you have any questions.
